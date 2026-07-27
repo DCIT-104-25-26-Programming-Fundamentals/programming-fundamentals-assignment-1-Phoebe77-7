@@ -52,3 +52,4 @@ def check_prime(number):
          print(f"{user_input} is a prime number.")
       else:
         print (f"{user_input}is not a prime number.")  
+        
